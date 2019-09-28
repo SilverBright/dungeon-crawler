@@ -7,7 +7,7 @@ class App extends React.Component {
     return (
       <div>
         <Player />
-        <Map />
+        {/* <Map /> */}
       </div>
     )
   }
