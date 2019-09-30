@@ -10,8 +10,8 @@ function World(props) {
       height: '400px',
       margin: '20px auto',
     }}>
-      <Player />
       <Map />
+      <Player />
     </div>
   )
 }
